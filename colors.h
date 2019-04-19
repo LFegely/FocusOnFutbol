@@ -1,0 +1,9 @@
+const int RED[3] = {255, 0, 0};
+const int GREEN[3] = {0, 255, 0};
+const int BLUE[3] = {0, 0, 255};
+const int YELLOW[3] = {255, 255, 0};
+const int ORANGE[3] = {255, 127, 0};
+const int PINK[3] = {255, 0, 127};
+const int PURPLE[3] = {255, 0, 255};
+const int WHITE[3] = {255, 255, 255};
+const int OFF[3] = {0, 0, 0};
